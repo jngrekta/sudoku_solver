@@ -1,4 +1,4 @@
-# GUI.py
+# GUI for Sudoku
 import pygame
 import time
 pygame.font.init()
